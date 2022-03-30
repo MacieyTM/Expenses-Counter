@@ -11,4 +11,4 @@ npx create-react-app my-app
 ```
 npm start
 ```
-https://macieytm.github.io/TODO-React/
+https://macieytm.github.io/Expenses-Counter/
