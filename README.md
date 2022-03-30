@@ -12,3 +12,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/Expenses-Counter/
+
+![image](https://user-images.githubusercontent.com/95743795/160927506-9082d770-0a13-4ed6-bfa2-d820595b343b.png)
